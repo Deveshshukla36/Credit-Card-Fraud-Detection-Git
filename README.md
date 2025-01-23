@@ -172,6 +172,12 @@ The **docker-compose** method can also be used to deploy the API and Streamlit a
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Nneji123/Credit-Card-Fraud-Detection.)
 
+### Running in a Codeanywhere Cloud Environment
+
+**Click the button below to start a new development environment:**
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/Nneji123/Credit-Card-Fraud-Detection)
+
 ## Deployment
 The API and Streamlit App have both been deployed using the dockerfile on heroku and Streamlit Cloud respectively.
 
